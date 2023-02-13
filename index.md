@@ -1,10 +1,18 @@
  # Welcome to Pierce's Programming Portfolio
 
- ## Programming 1 Semester 1 Projects
+ ## Programming 1 Semester 1 Projects:
  
  ### OOP Calculator
  Graphic based OOP calculator.
- Source Code
- Exported App
  
- ## Programming 1 Semester 2 Projects
+ ![Running Calculator]()
+ 
+ [Source Code]()
+ 
+ ### SpaceGame
+ 
+ ### ScreenSaver
+ 
+ ## Programming 1 Semester 2 Projects:
+ 
+### ShapeTester
