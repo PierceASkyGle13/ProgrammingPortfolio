@@ -18,7 +18,7 @@
  ### ScreenSaver
  
  ![Running ScreenSaver]()
- 
+
  [Source Code]()
  
  ## Programming 1 Semester 2 Projects:
