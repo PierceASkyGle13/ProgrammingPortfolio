@@ -47,4 +47,4 @@ Play chess completely ad-free on the computer. But you better pay close attentio
 
 [Source Code](https://github.com/PierceASkyGle13/ProgrammingPortfolio/tree/gh-pages/src/Chess)
 
-[Github Repository](https://github.com/jack125251/Java-Group---Chess)
+
