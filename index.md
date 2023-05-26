@@ -38,3 +38,13 @@ Convert Any Word To PigLatin
 ![Running Converter](https://github.com/PierceASkyGle13/ProgrammingPortfolio/blob/gh-pages/images/PigLatin.png?raw=true)
 
 [Source Code](https://github.com/PierceASkyGle13/ProgrammingPortfolio/tree/gh-pages/src/PigLatin)
+
+
+### Java Chess Game
+Play chess completely ad-free on the computer. But you better pay close attention.
+
+![Running Chess Game](https://github.com/PierceASkyGle13/ProgrammingPortfolio/blob/gh-pages/images/chess.png)
+
+[Source Code](https://github.com/PierceASkyGle13/ProgrammingPortfolio/tree/gh-pages/src/Chess)
+
+[Github Repository](https://github.com/jack125251/Java-Group---Chess)
